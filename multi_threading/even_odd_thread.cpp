@@ -1,4 +1,14 @@
 
+
+/*******************************************************
+ * Copyright (C) 2010-2011 Ch V Kishore <apps.kisstronics@gmail.com>
+ * 
+ * This file is part of CPP Samples.
+ * 
+ * CPP Samples can be copied and/or distributed without the express
+ * permission
+ * 
+ *******************************************************/
 #include <iostream>
 #include <string>
 #include <thread>
